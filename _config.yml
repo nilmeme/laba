@@ -31,21 +31,19 @@ twitter_username:
 github_username:
 youtube_username:
 
-
-
 # Feature List                            Edit, add or remove features to be presented.
 features:
 
-  - title: GitHub Pages Jekyll Theme
-    description: Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+  - title: 主要功能
+    description: 一键语音合成：输入文字转换成语音，只需简单设置几个参数，自动合成。成品录音可直接导出，风格多样，效果震撼；多个合成主播：各种声音随意切换，多种发音人任您选择；一键导出MP3：所有的音频文件都可以直接导出至手机、U盘、电脑，可离线播放。
     fontawesome_icon_name: magic
 
-  - title: iPhone Device Preview
-    description: Preview your app in the context of an iPhone device. Five different device colors included.
+  - title: 产品特色
+    description: 自带播放器：可在应用中直接循环播放，省却配置烦恼；操作简单：文字秒转语音，一键导出MP3，简单高效；素材丰富：多种发音人，优质背景音，打造专属于你的配音效果
     fontawesome_icon_name: mobile
 
-  - title: Video Support
-    description: Preview app video on the iPhone device simply by placing your video files in the videos folder.
+  - title: 场景用途
+    description: 叫卖促销：地摊叫卖，商场促销等线下促销配音；媒体配音：抖音，快手等自媒体视频配音，微信文章配音；企业宣传：专题片宣传，广告宣传解说等宣传配音；有声读书：小说，杂志，课本等，随性配置；语音提示：防盗，报警等系统提示录制
     fontawesome_icon_name: play-circle
 
   - title: Automatic Icon and Metadata
