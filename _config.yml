@@ -20,14 +20,15 @@ enable_smart_app_banner: true                                      # Set to true
 
 
 # Information About Yourself
-your_name: Emil Baehr
-your_link: https://emilbaehr.com
-your_city: Copenhagen
-email_address: emil.baehr@gmail.com
+your_name: 无量网络
+your_link:
+your_city:
+bei_an: 浙ICP备2021021495号-1
+email_address: dkpy2020@126.com
 facebook_username:
-instagram_username: ebaehr
-twitter_username: ebaehr
-github_username: emilbaehr
+instagram_username:
+twitter_username:
+github_username:
 youtube_username:
 
 
