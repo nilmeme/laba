@@ -1,65 +1,53 @@
 ---
 layout: page
-title: What's New
+title: 隐私政策
 include_in_header: true
 ---
 
-# Changelog
-Here you can keep a changelog for your app. Edit the markdown based CHANGELOG.md which is located in the _pages directory. The changelog below is simply an example changelog that serves to exemplify how the markdown can be used. You can be as creative as you want with the markdown.
-
+# 隐私政策
+为使用大口配音提供的配音软件及服务（以下简称“本软件”、“本应用”或“本服务”），您应当阅读并遵守《隐私政策协议》（以下简称“本协议”）。 本软件尊重并保护所有使用服务用户的个人隐私权。为了给您提供更准确、更优质的服务，本应用会按照本隐私权政策的规定使用和披露您的个人信息。除本隐私权政策另有规定外，在未征得您事先许可的情况下，本应用不会将这些信息对外披露或向第三方提供。本应用会不时更新本隐私权政策。您在同意本应用服务使用协议之时，即视为您已经同意本隐私权政策全部内容。
 <br>
 
-### `Latest`
-# **Version 2.0**
-This is the first update to our app. Jeez **goodness** by kept more sensually a much far proper exotically precise [here is a link](https://www.google.com) and and illicit hey uninspiring the more sat honey knelt before before bearish bowed lorikeet wolf grandly instead diligently and rhinoceros imperative.
+## 1.适用范围
+- 在您注册本应用app帐号时，您根据app要求提供的个人注册信息；
+- 在您使用本应用网络服务，或访问本应用平台网页时，本应用自动接收并记录的您的浏览器和计算机上的信息，包括但不限于您的IP地址、浏览器的类型、使用的语言、访问日期和时间、软硬件特征信息及您需求的网页记录等数据；
+- 本应用通过合法途径从商业伙伴处取得的用户个人数据；
+- 本应用严禁用户发布不良信息，如裸露、色情和表渎内容，发布的内容我们会进行审核，一经发现不良信息，会禁用该用户的所有权限，予以封号处理。
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
+## 2.信息使用
 
-#### Bug Fixes
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
+- 本应用不会向任何无关第三方提供、出售、出租、分享或交易您的个人登录信息。如果我们存储发生维修或升级，我们会事先发出推送消息来通知您，请您提前允许本应用消息通知。
+- 本应用亦不允许任何第三方以任何手段收集、编辑、出售或者无偿传播您的个人信息。任何本应用平台用户如从事上述活动，一经发现，本应用有权立即终止与该用户的服务协议。
+- 为服务用户的目的，本应用可能通过使用您的个人信息，向您提供您感兴趣的信息，包括但不限于向您发出产品和服务信息，或者与本应用合作伙伴共享信息以便他们向您发送有关其产品和服务的信息（后者需要您的事先同意）。 
+- 我们的产品集成百度统计SDK，百度统计SDK需要收集您的设备Mac地址、唯一设备识别码（IMEI/android ID/IDFA/OPENUDID/GUID、SIM 卡 IMSI 信息）以提供统计分析服务，并通过地理位置校准报表数据准确性，提供基础反作弊能力。
 
-<br>
+## 3.信息披露
 
-### **Version 2.1**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
+- 在如下情况下，本应用将依据您的个人意愿或法律的规定全部或部分的披露您的个人信息；
+- 未经您事先同意，我们不会向第三方披露；
+- 为提供您所要求的产品和服务，而必须和第三方分享您的个人信息；
+- 根据法律的有关规定，或者行政或司法机构的要求，向第三方或者行政、司法机构披露； 
+- 如您出现违反中国有关法律、法规或者本应用服务协议或相关规则的情况，需要向第三方披露；
+- 如您是适格的知识产权投诉人并已提起投诉，应被投诉人要求，向被投诉人披露，以便双方处理可能的权利纠纷。
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
+## 4.信息存储和交换
 
-<br>
+本应用收集的有关您的信息和资料将保存在本应用及（或）其关联公司的服务器上，这些信息和资料可能传送至您所在国家、地区或本应用收集信息和资料所在地的境外并在境外被访问、存储和展示。
 
-________
-<br>
+## 5.Cookie的使用
 
-### `Initial Release`
-# **Version 1.0**
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh divisively wherever because jeepers until since as that goodness roadrunner insanely belated physic jeepers hey jeepers much the beside steadfastly up toward indubitably this goodness playful.
+- 在您未拒绝接受cookies的情况下，本应用会在您的计算机上设定或取用cookies,以便您能登录或使用依赖于cookies的本应用平台服务或功能。本应用使用cookies可为您提供更加周到的个性化服务，包括推广服务；
+- 您有权选择接受或拒绝接受cookies。您可以通 过修改浏览器设置的方式拒绝接受cookies。但如果您选择拒绝接受cookies,则您可能无法登录或使用依赖于cookies的本应用网络服务或功能。
+- 通过本应用所设cookies所取得的有关信息，将适用本政策。
 
-<br>
+## 6.本隐私政策的更改
 
-## **Version 1.1**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
+- 如果决定更改隐私政策，我们会在本政策中、本公司网站中以及我们认为适当的位置发布这些更改，以便您了解我们如何收集、使用您的个人信息，哪些人可以访问这些信息，以及在什么情况下我们会透露这些信息。
+- 本公司保留随时修改本政策的权利，因此请经常查看。如对本政策作出重大更改，本公司会通过网站通知的形式告知。 请您妥善保护自己的个人信息，仅在必要的情形下向他人提供。如您发现自己的个人信息泄密，尤其是本应用用户名及密码发生泄露，请您立即联络本应用客服，以便本应用采取相应措施。 感谢您花时间了解我们的隐私政策！我们将尽全力保护您的个人信息和合法权益，再次感谢您的信任。
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
+## 7.个推提供消息推送服务过程中收集和使用的信息
 
-<br>
+- 设备信息：设备识别码将被用于生成唯一的推送目标ID，即CID。设备平台、设备厂商、设备品牌等设备相关信息有助于我们帮助开发者给您提供更好的推送服务和体验。
+- 应用列表信息：我们采用合并链路技术进行技术推送，当一个设备有多个APP的推送链路同时活跃时，我们会随机合并成一条链路，以达到为您省电省流量的目的，因此需获得应用列表信息；同时我们提供智能推送功能，通过该信息推荐更符合您需要的推送内容，减少无用推送信息对您的打扰。
+- 网络信息以及位置相关信息：为了最大程度保持网络连接的稳定性，建立长链接，我们需要了解设备的网络状态和变化，从而实现稳定连续的推送服务。我们提供应景推送功能，位置相关信息将有助于我们为您提供线下场景的精细化推送，可以为您推荐更符合您需要的推送内容，减少无用推送消息对您的打扰。
 
-## Version 1.0.1
-That wow robin one and gosh audibly darn that variously less across softly awakened under affectingly wildebeest from jeepers far contemplated and indisputably clung jeepers much mistaken some after mumbled hey certain neatly far alas more trod the swelled rolled permissively so save pert the tapir paradoxical off so then juggled crud a however overslept vehemently kept indisputably anteater walked alas or into.
-
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-
-#### Bug Fixes
-- Improved user sign up experience.
-- Unlike deliberately zebra hen oh jeez understandable. Alas and quit oh snooty unlike deliberately.
-
-<br>

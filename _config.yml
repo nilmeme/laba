@@ -7,7 +7,7 @@ ios_app_country: cn                                       # Required outside USA
 
 appstore_link:                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link:                                           # Enter Google Play Store URL.
-presskit_download_link: https://emilbaehr.com                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file).
+presskit_download_link:                                        # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file).
 # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon:  assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
@@ -35,15 +35,15 @@ youtube_username:
 features:
 
   - title: 主要功能
-    description: 一键语音合成：输入文字转换成语音，只需简单设置几个参数，自动合成。成品录音可直接导出，风格多样，效果震撼。\n多个合成主播：各种声音随意切换，多种发音人任您选择。\n一键导出MP3：所有的音频文件都可以直接导出至手机、U盘、电脑，可离线播放。
+    description: <b>一键语音合成：</b>输入文字转换成语音，只需简单设置几个参数，自动合成。成品录音可直接导出，风格多样，效果震撼。<br /><b>多个合成主播：</b>各种声音随意切换，多种发音人任您选择。<br /><b>一键导出MP3：</b>所有的音频文件都可以直接导出至手机、U盘、电脑，可离线播放。
     fontawesome_icon_name: magic
 
   - title: 产品特色
-    description: 自带播放器：可在应用中直接循环播放，省却配置烦恼；操作简单：文字秒转语音，一键导出MP3，简单高效；素材丰富：多种发音人，优质背景音，打造专属于你的配音效果
+    description: <b>自带播放器：</b>可在应用中直接循环播放，省却配置烦恼。<br /><b>操作简单：</b>文字秒转语音，一键导出MP3，简单高效。<br /><b>素材丰富：</b>多种发音人，优质背景音，打造专属于你的配音效果
     fontawesome_icon_name: mobile
 
   - title: 场景用途
-    description: 叫卖促销：地摊叫卖，商场促销等线下促销配音；媒体配音：抖音，快手等自媒体视频配音，微信文章配音；企业宣传：专题片宣传，广告宣传解说等宣传配音；有声读书：小说，杂志，课本等，随性配置；语音提示：防盗，报警等系统提示录制
+    description: <b>叫卖促销：</b>地摊叫卖，商场促销等线下促销配音；媒体配音：抖音，快手等自媒体视频配音，微信文章配音。<br /><b>企业宣传：<br /></b>专题片宣传，广告宣传解说等宣传配音。<br /><b>有声读书：</b>小说，杂志，课本等，随性配置；语音提示：防盗，报警等系统提示录制
     fontawesome_icon_name: play-circle
 
   - title: # New Feature Title
@@ -81,18 +81,6 @@ social_icons_foreground_color: "#666666"
 social_icons_background_color: "#e6e6e6"
 
 footer_text_color: "#666666"
-
-
-
-
-
-
-
-
-
-
-
-
 
 ####################################################
 ### Jekyll Configuration. No need to touch this. ###
