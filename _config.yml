@@ -44,7 +44,7 @@ features:
 
   - title: 场景用途
     description: <b>叫卖促销：</b>地摊叫卖，商场促销等线下促销配音；媒体配音：抖音，快手等自媒体视频配音，微信文章配音。<br /><b>企业宣传：<br /></b>专题片宣传，广告宣传解说等宣传配音。<br /><b>有声读书：</b>小说，杂志，课本等，随性配置；语音提示：防盗，报警等系统提示录制
-    fontawesome_icon_name: play-circle
+    fontawesome_icon_name: hand-point-right
 
   - title: # New Feature Title
     description: # New Feature Description
